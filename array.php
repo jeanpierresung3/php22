@@ -16,7 +16,7 @@
         array_push($coworkers, 'graphittie');
         print_r($coworkers);
         var_dump($coworkers);
-
+        var_dump($coworkers);
     ?>
 </body>
 </html>
